@@ -3,7 +3,7 @@
 ## 🧠 Overview  
 This project is a Python-based demonstration of training a binary classifier to predict diabetes using health metrics. The model is trained on a publicly available dataset and evaluated to measure its performance.
 
-## 📦 What’s Included  
+## 📦 What’s Included
 - Loading the dataset from a raw GitHub link (no manual file uploads needed)  
 - Exploring the first few rows of the data using `print()`  
 - Splitting into **training** and **test** sets with stratification (`train_test_split`)  
