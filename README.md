@@ -9,7 +9,7 @@ This project is a Python-based demonstration of training a binary classifier to 
 - Splitting into **training** and **test** sets with stratification (`train_test_split`)  
 - Applying **feature scaling** using `StandardScaler`  
 - Training a **Support Vector Machine (SVM)** model with a linear kernel  
-- Making predictions and computing **accuracy** as an evaluation met
+- Making predictions and computing **accuracy** as an evaluation m
 
 ## ⚙️ How to Run  
 1. Open the notebook `Diabetes_Prediction.ipynb` in Google Colab or Jupyter.  
